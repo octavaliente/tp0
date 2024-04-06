@@ -71,6 +71,7 @@ int main(void)
 
 	terminar_programa(conexion, logger, config);
 
+	return 0;
 	/*---------------------------------------------------PARTE 5-------------------------------------------------------------*/
 	// Proximamente
 }
